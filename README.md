@@ -10,7 +10,7 @@ Currículo profissional online desenvolvido com **HTML, CSS e JavaScript**, com 
 
 O currículo pode ser acessado via GitHub Pages:
 
-🔗 https://engsamir.github.io/Curr-culo-web/
+🔗 https://engsamir.github.io/Curriculo-web/
 
 ---
 
